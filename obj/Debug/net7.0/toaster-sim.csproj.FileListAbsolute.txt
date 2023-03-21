@@ -1,0 +1,15 @@
+C:\dre-repos\toaster-sim\bin\Debug\net7.0\toaster-sim.exe
+C:\dre-repos\toaster-sim\bin\Debug\net7.0\toaster-sim.deps.json
+C:\dre-repos\toaster-sim\bin\Debug\net7.0\toaster-sim.runtimeconfig.json
+C:\dre-repos\toaster-sim\bin\Debug\net7.0\toaster-sim.dll
+C:\dre-repos\toaster-sim\bin\Debug\net7.0\toaster-sim.pdb
+C:\dre-repos\toaster-sim\obj\Debug\net7.0\toaster-sim.csproj.AssemblyReference.cache
+C:\dre-repos\toaster-sim\obj\Debug\net7.0\toaster-sim.GeneratedMSBuildEditorConfig.editorconfig
+C:\dre-repos\toaster-sim\obj\Debug\net7.0\toaster-sim.AssemblyInfoInputs.cache
+C:\dre-repos\toaster-sim\obj\Debug\net7.0\toaster-sim.AssemblyInfo.cs
+C:\dre-repos\toaster-sim\obj\Debug\net7.0\toaster-sim.csproj.CoreCompileInputs.cache
+C:\dre-repos\toaster-sim\obj\Debug\net7.0\toaster-sim.dll
+C:\dre-repos\toaster-sim\obj\Debug\net7.0\refint\toaster-sim.dll
+C:\dre-repos\toaster-sim\obj\Debug\net7.0\toaster-sim.pdb
+C:\dre-repos\toaster-sim\obj\Debug\net7.0\toaster-sim.genruntimeconfig.cache
+C:\dre-repos\toaster-sim\obj\Debug\net7.0\ref\toaster-sim.dll
